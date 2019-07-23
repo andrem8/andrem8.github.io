@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Updates & Project Plans"
-date: 2019-08-23
+date: 2019-07-23
 ---
 
 Today is Tuesday and I just finished a chapter from Deep Learning on NLP. The chapter is dense and has a lot to take in. I think I'm going to need to review a few other learnings resources before moving on in the book.
